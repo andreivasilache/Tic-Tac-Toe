@@ -1,0 +1,134 @@
+
+body{
+	background-color: #BFFBEE;
+	color:white;
+    overflow:hidden;
+    margin:10px;
+}
+h1{
+	color:white;
+}
+#table{
+	margin-left: 29%;
+}
+#topText{
+	text-align: center;
+	padding-left: 16%;
+}
+#score{
+	display: block;
+
+	margin:0;
+	padding:0;
+}
+/*Boostrap edits*/
+.row {
+	background-color: #BFFBEE;
+    display: -webkit-box;
+
+}
+.col-sm-8{
+	margin-left: -5%;
+}
+.col-sm-2{
+	text-align: center;
+	padding-top: 140px;
+}
+
+/**/
+.oTurn,.xTurn{
+	font-size: 18px;
+	color:black;
+}
+.oTurn{
+	color: #00ff00;
+}
+.xTurn{
+	color:red;
+}
+.scoreX,.scoreO{
+	text-align: center;
+	color: white;
+}
+.scoreO{
+	color:#00ff00;
+}
+.scoreX{
+	color:red;
+}
+.box{
+	border:1px solid green;
+	width:200px;
+	height:200px;
+}
+
+/*test*/
+.o{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image:url("https://media2.giphy.com/media/lzC23JCgzrtxLVmSke/giphy.gif"); 
+}
+.x{
+	background-repeat: no-repeat;
+	background-image: url("https://media.giphy.com/media/l378yQjDMER6TR8Q0/source.gif");
+	background-size:cover;
+}
+/*Row personalization*/
+.row{
+	display:inline-block;
+}
+#a00{
+	border-top: none;
+    border-left: none;
+}
+#a01{
+    border-top: none;
+}
+#a02{
+    border-top: none;
+    border-right: none;
+}
+#a10{
+	border-left:none;
+}
+
+#a12{
+	border-right:none;
+}
+
+#a20{
+	border-left:none;
+	border-bottom:none;
+}
+
+#a21{
+	border-bottom:none;
+}
+
+#a22{
+	border-bottom:none;
+	border-right:none;
+}
+/*gifs*/
+.Gif{
+	display:block;
+	max-width:100%;
+	height:200px;
+}
+.drawGif{
+	background-size: cover;
+
+}
+.xWonGif{
+	background-size: cover;
+}
+.oWonGif{
+	
+}
+.boxUsedGif{
+	display:block;
+	max-width:100%;
+	height:200px;
+	background-size: cover;
+}
+
