@@ -1,3 +1,4 @@
+$(window).on("load",function(){
 // global values
 var gameOver=false;
 var x="x";
@@ -229,6 +230,8 @@ function playerO(){
 	}
 
 }
+});
+
 
 
 
