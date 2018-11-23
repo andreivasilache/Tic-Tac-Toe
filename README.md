@@ -8,3 +8,6 @@ There is a 3x3 matrix and a function who checks whenever the diagonals, cells, o
 If one of previous statements is not fullfiled , game ends with a draw. 
 
 For development I used Html, Css, JavaScript, Bootstrap, and some cute gifs.
+
+
+<img src="https://i.imgur.com/WnfuYWH.gif">
