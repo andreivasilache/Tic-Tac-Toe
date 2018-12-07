@@ -11,7 +11,7 @@ For development I used Html, Css, JavaScript, Bootstrap,jQuery, and some cute gi
 
 
 
-Personal Profile Page Link:http://vasilache-andrei.herokuapp.com/  
+Portfolio:http://vasilache-andrei.herokuapp.com/  
 <br>
 Application Link: http://vasilache-andrei.herokuapp.com/tic-tac-toe
 
